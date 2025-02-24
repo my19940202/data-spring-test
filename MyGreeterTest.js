@@ -44,7 +44,7 @@ function MyGreeterTest() {
         );
     })
 
-    // 改进点2: 测试边界情况(假定题目中的区间是左开右闭区间)
+    // 改进点2: 测试边界情况(假定题目中的区间是左闭右开区间)
     // morning   [6am, 12am)
     // afternoon [12am, 6pm)
     // evening   [6pm, 6am)
