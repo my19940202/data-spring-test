@@ -5,8 +5,6 @@ npm run dev-tests
 ## 单测全部通过
 <img src="./img/test-passed.jpg" />
 
-## 单测失败一个
-<img src="./img/test-failed.jpg" />
 
 # 2.思考
 ## MyGreeterTest的问题和解决方案
