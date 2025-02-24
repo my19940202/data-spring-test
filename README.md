@@ -1,4 +1,7 @@
 # 1.测试结果预览
+```javascript
+npm run dev-tests
+```
 ## 单测全部通过
 <img src="./img/test-passed.jpg" />
 
